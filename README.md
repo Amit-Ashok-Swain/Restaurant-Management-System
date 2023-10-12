@@ -25,7 +25,7 @@ The Restaurant Management System is a Spring Boot-based application that provide
 ## Technologies Used
 
 - **Framework:** Spring Boot
-- **Language:** Java 20
+- **Language:** Java 21
 - **Database:** MySQL
 - **Build Tool:** Maven
 - **Documentation:** SpringDoc OpenAPI (Swagger UI)
